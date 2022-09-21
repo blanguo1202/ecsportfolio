@@ -4,41 +4,40 @@ body {
 	margin: 0 auto;
 }
 .homePage {
-	background: #C1C7FA;
+	background: #A48DB5;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	background: #D8C7FF;
 	text-align: center;
-	margin: 0px;
-	padding: 5;
-	float: left;
-	width: 100%;
-	height: 80px;
-	
-}
-.nav {
-	background: #BBBBBB;
 	margin: 0px;
 	padding: 5;
 	float: left;
 	width: 100%;
 	height: 60px;
+	
+}
+.nav {
+	background: #E8C7FF;
+	margin: 0px;
+	padding: 5;
+	float: left;
+	width: 100%;
+	height: 40px;
 	text-align: center;
 }
 .content {
-	background: #EEEEEE;
+	background: #FFFFFF;
 	margin: 0px;
 	float: left;
 	width: 100%;
-	height: 400px;
 	text-align: center;
 }
 .footer {
-	background: #777777;
+	background: ##BAC9DE;
 	margin: 0px;
 	float: left;
 	width: 100%;
